@@ -1,0 +1,40 @@
+here is the instructions on how to complete the "fearless decryption challenge"
+important note:
+this is the pcoket version of fearless decryption challenge (hecker's deckryption challenge 0:1)
+that means that there are a few side effects and some diffrent things from the dc version.
+the pocket version may be a bit harder than the DC version and takes up more storage and has more files.
+this version is managed outside of DC and does not revolv around DC and that also means this is portable on an USB.
+and because it does not revolv around dc he exe files use network functions to get the other file once the fi8rst mission is completed.
+
+Fearlss Decryption Challange instructions:
+here is the instructions on how to complete the Fearlss Decryption Challege (Hecker's cryptography Challenge 0:1)
+when you download the challenge from a source it comes with 2 files.
+
+1. 8eyeru3hu6hr8th3987yt.+
+2. StartMission.exe
+
+first you will need to decrypt the 8eyeru3hu6hr8th3987yt.+ and find the right column of data which is a code that you then need to put in the StartMission.exe.
+After that it will download a zip archive with the other files. Congrats, you have now made it through the "do you really have the knowlage and skill to enter this challenge?" barrier. 
+
+now open the folder and you will see these files:
+###.png
+file0.+
+file1.SMM
+file2.SMM
+file3.+
+file4.UNB
+file5.Unnamed
+file7.USB
+file8.+
+file9.AES
+file11.unnamed
+FinalCode.exe
+
+now you need to decrypt all files and then figure out the puzzle as all files are not placed in the right order, i also might have added one or to impostor files to mess upp your final code ;)
+when have puzzled all peices toughether you should end up with 1 final code. Now open the FinalCode.exe and enter your code. Now you will have the option do download a .pdf certificate that you have completed the "Fearless Decryption Challenge". You can also take a screenshot of the screen that you have completed the challange tho to get maximum proof i recomend you download the certificate. 
+
+License: © 2026 exevectorr — All rights reserved.
+Main source: https://www.github.com/exevectorr
+
+This work is proprietary. Unauthorized copying, modification,
+or distribution of any part of this project is strictly prohibited.
