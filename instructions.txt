@@ -30,11 +30,12 @@ file9.AES
 file11.unnamed
 FinalCode.exe
 
-now you need to decrypt all files and then figure out the puzzle as all files are not placed in the right order, i also might have added one or to impostor files to mess upp your final code ;)
+now you need to decrypt all files and then figure out the puzzle as all files are not placed in the right order, i also might have added one or two impostor files to mess upp your final code ;)
 when have puzzled all peices toughether you should end up with 1 final code. Now open the FinalCode.exe and enter your code. Now you will have the option do download a .pdf certificate that you have completed the "Fearless Decryption Challenge". You can also take a screenshot of the screen that you have completed the challange tho to get maximum proof i recomend you download the certificate. 
 
 License: © 2026 exevectorr — All rights reserved.
 Main source: https://www.github.com/exevectorr
 
 This work is proprietary. Unauthorized copying, modification,
+
 or distribution of any part of this project is strictly prohibited.
